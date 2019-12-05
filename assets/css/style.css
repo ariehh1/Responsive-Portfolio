@@ -1,0 +1,179 @@
+h1 {
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 35px;
+    margin: 0;
+    height: 100%;
+
+ }
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    min-height: calc(100vh - 70px);
+   }
+
+nav {
+    display: flex;
+    padding: 10px;
+    color: #ffffff;
+}
+
+body {
+    background-image: url("../images/farmer/farmer.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.content {
+    max-width: 960px;
+    width: 100%;
+    color: #777777;
+    background-color: #ffffff;
+    justify-content: center;
+    margin: 30px;
+    padding: 20px;
+    text-align: left;
+}
+
+a {
+    margin-left: 15px;
+    color: #777777;
+    padding: 10px;
+}
+
+.picture1 {
+    display: flex;
+    justify-content: center;
+}
+    
+.p1 {
+    color: #777777;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.p2 {
+    color: #777777;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+    
+.footer1{
+    display: flex;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    padding: 2px;
+    color: #ffffff;
+    background: #666666;
+    padding: #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    border-width: 5px 5px 0px 0px;
+    }
+
+.button {
+    display: flex;
+    justify-content: end;
+    color: #4aaaa5;
+    margin: 50px;
+}
+
+input[type=text]{
+    width: 98%;
+    margin: 3px;
+}
+
+input[type=text1]{
+    width: 98%;
+    height: 150px;
+    margin: 3px;
+}
+    
+input[type=submit]{
+    font-size: 15px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3px;
+    direction: flex;
+    justify-content: flex-end;
+    width: 10%;
+    display: inline-block;
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
+
+h2 {
+    color: #4aaaa5;
+    margin: 0px;
+}
+
+.text {
+    width: 50%;
+}
+
+.work {
+    position: relative;
+    margin: 20px 15px 25px 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.work:nth-child(even) {
+    margin-right: 40px;
+}
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 300px;
+    padding: 40px;
+    margin: 20px;
+}
+
+#main-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    padding-bottom: 40px;
+}
+
+h3 {
+    position: absolute;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 65%;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+    bottom: 48px;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+}
