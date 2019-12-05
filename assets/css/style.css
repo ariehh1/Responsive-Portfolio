@@ -133,21 +133,8 @@ h2 {
     width: 50%;
 }
 
-.work {
-    position: relative;
-    margin: 20px 15px 25px 15px;
-    display: flex;
-    justify-content: center;
-}
-
 .work:nth-child(even) {
     margin-right: 40px;
-}
-
-.portfolio {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 
 img {
