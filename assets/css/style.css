@@ -152,8 +152,8 @@ h2 {
 
 img {
     width: 300px;
-    padding: 40px;
-    margin: 20px;
+    padding: 20px;
+    margin: 10px;
 }
 
 #main-container {
@@ -176,4 +176,10 @@ h3 {
     text-align: center;
     justify-content: space-evenly;
     display: flex;
+}
+
+#custom-button {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    border: #4aaaa5;
 }
