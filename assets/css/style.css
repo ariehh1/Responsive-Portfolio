@@ -4,19 +4,9 @@ h1 {
     font-size: 35px;
     margin: 0;
     height: 100%;
-
  }
 
-.main-header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #ffffff;
-    height: 70px;
-    width: 100%;
-    border-bottom: 1px solid gray;
-}
-
-.main-content {
+ .main-content {
     display: flex;
     justify-content: center;
     min-height: calc(100vh - 70px);
@@ -142,14 +132,6 @@ img {
     margin-bottom: 30px;
     margin-left: 12px;
     height: 375px;
-}
-
-#main-container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-content: center;
-    padding-bottom: 40px;
 }
 
 h3 {
