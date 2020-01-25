@@ -8,8 +8,11 @@ As a future web developer, I look forward to utilizing Bootstrap and spend less 
 
 References:
 
-https://getbootstrap.com/docs/4.4/getting-started/introduction
-https://www.w3schools.com/bootstrap/default.asp
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [w3schools](https://www.w3schools.com/)
+
+Contact:
+[@ariehh1](https://github.com/ariehh1)
 
 Screenshots:
 
