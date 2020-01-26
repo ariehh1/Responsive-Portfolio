@@ -125,17 +125,14 @@ h2 {
   margin-right: 40px;
 }
 
-/* img {
-    width: 300px;
-    margin-bottom: 30px;
-    margin-left: 12px;
-    height: 375px;
-} */
 .img-fluid {
   margin: 30px 50px 30px 50px;
   width: 75%;
   height: 75%;
   max-height: 280px;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+  border-radius: 5px;
 }
 
 h3 {
