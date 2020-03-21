@@ -33,7 +33,7 @@ body {
 .content {
   max-width: 960px;
   width: 100%;
-  color: #777777;
+  color: black;
   background-color: #ffffff;
   justify-content: center;
   margin: 30px;
@@ -94,7 +94,7 @@ input[type="submit"] {
 }
 
 h2 {
-  color: #9ea2a2;
+  color: #007a33;
   margin: 0px;
 }
 
