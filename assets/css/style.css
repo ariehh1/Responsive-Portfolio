@@ -6,6 +6,11 @@ h1 {
   height: 100%;
 }
 
+.writing {
+  background-color: white;
+  color: black;
+}
+
 .main-content {
   display: flex;
   justify-content: center;
