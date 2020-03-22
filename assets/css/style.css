@@ -19,7 +19,8 @@ nav {
 }
 
 body {
-  background-image: url("../images/farmer/farmer.png");
+  background-image: url("../images/seattle.png");
+  /* background-image: url("../images/farmer/farmer.png"); */
   background-repeat: repeat;
   background-attachment: fixed;
   margin: 0;
@@ -33,16 +34,17 @@ body {
 .content {
   max-width: 960px;
   width: 100%;
-  color: black;
+  color: white;
   background-color: transparent;
   justify-content: center;
   margin: 30px;
   padding: 20px;
   text-align: left;
+  font-weight: 1000;
 }
 
 a {
-  color: black;
+  color: white;
 }
 
 .picture1 {
@@ -94,7 +96,8 @@ input[type="submit"] {
 }
 
 h2 {
-  color: black;
+  color: white;
+  font-weight: 1000;
   margin: 0px;
   font-size: 28px;
 }
